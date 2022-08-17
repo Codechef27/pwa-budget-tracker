@@ -53,7 +53,7 @@
     "short_name": "Budgets",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "../server.js",
+    "start_url": "/",
     "background_color": "#080",
     "theme_color": "#ffffff"
 }
